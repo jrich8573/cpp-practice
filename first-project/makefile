@@ -18,10 +18,10 @@ CPPFLAGS=-g -D$(DISTR)
 CFLAGS=-g
 TARGET=$(MAINPROG)$(EXE)
 CPPS=first-project.cpp
-LINK=g++ $(CPPFLAGS)
+LINK=clang++ $(CPPFLAGS)
 #
-CC=gcc
-CXX=g++
+CC=clang
+CXX=clang++
 #
 #
 #  In most cases, you should not change anything below this line.
