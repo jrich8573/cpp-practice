@@ -14,7 +14,7 @@ int main(){
     short b = 5; // 2bytes truncates the decimal
     float c = 5.3; // 4 bytes
     double d = 5.4; // 8 bytes more precise than float
-    unsigned int e = 58;
+    unsigned int e = 58; // stores only positive values
     const string NAME = "Batman"; // convention when using constants is to use uppercase
     cout << a << '\n';
     cout << &a << '\n'; //&a is the address of a
