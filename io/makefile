@@ -1,6 +1,6 @@
 DIR=${PWD}
 ASST=$(notdir ${DIR})
-MAINPROG=varaibles
+MAINPROG=input-output
 ifneq (,$(findstring MinGW,$(PATH)))
 DISTR=MinGW
 EXE=.exe
@@ -17,7 +17,7 @@ endif
 CPPFLAGS=-g -D$(DISTR)
 CFLAGS=-g
 TARGET=$(MAINPROG)$(EXE)
-CPPS=variables.cpp
+CPPS=input-output.cpp
 LINK=clang++ $(CPPFLAGS)
 #
 CC=clang

@@ -1,6 +1,6 @@
 DIR=${PWD}
 ASST=$(notdir ${DIR})
-MAINPROG=imput-output
+MAINPROG=variables
 ifneq (,$(findstring MinGW,$(PATH)))
 DISTR=MinGW
 EXE=.exe
