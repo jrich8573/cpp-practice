@@ -2,3 +2,5 @@
 *.d
 *.o
 *make.dep*
+*.txt*
+*.dat*
