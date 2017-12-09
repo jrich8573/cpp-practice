@@ -15,6 +15,7 @@
 
   3. Chapter 3:
 
+        a. [operators](./operators)
 
   4. Misc Code:
 
