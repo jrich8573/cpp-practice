@@ -3,5 +3,5 @@
 
 ## directories
 
-1. [roots](~/cpp-practice/misc-code/roots)
-2. [factorials](~/cpp-practice/misc-code/factorials)
+1. [roots](#./misc-code/roots)
+2. [factorials](#./misc-code/factorials)
