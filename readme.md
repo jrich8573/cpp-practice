@@ -1,8 +1,7 @@
-## cpp practice
+# CPP Practice
 
 
-I. Included:
----
+## I. Included:
 
   1. Chapter 1:
 
@@ -15,3 +14,9 @@ I. Included:
       c. io    
 
   3. Chapter 3:
+
+
+  4. Misc Code:
+
+      a. roots
+      b. factorials
