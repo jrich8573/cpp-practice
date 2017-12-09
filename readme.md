@@ -9,14 +9,14 @@
 
   2. Chapter 2:
 
-      a. first-project    
-      b. variables    
-      c. io    
+      a. [first-project](./first-project)
+      b. [variables](./variables)    
+      c. [io](./io)
 
   3. Chapter 3:
 
 
   4. Misc Code:
 
-      a. roots
-      b. factorials
+      a. [roots](./misc-code/roots)
+      b. [factorials](./misc-code/factorials)
