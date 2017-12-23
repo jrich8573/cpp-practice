@@ -1,4 +1,4 @@
-# misc code
+# Misc Code
 
 
 ## directories
