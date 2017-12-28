@@ -26,4 +26,4 @@
       b. [factorials](./misc-code/factorials)
       
       
- made with :heart: by :unicorn:
+ :bar_chart: with :heart: by :unicorn:
