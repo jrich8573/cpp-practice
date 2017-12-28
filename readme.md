@@ -26,4 +26,4 @@
       b. [factorials](./misc-code/factorials)
       
       
- made with :heart: by [jrich](https://github.com/jrich8573)
+ made with :heart: by :unicorn:
