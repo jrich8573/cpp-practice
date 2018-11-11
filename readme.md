@@ -22,8 +22,8 @@
      1. [lists](./lists)    
      1. [maps](./maps)    	
      1. custom objects				
-	1. [map values](./map-values)
-	1. [map keys](./map-keys)			
+		1. [map values](./map-values)
+		1. [map keys](./map-keys)			
      1. [multimaps](./multimaps)
      1. [sets](./sets)
 
