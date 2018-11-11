@@ -3,27 +3,34 @@
 
 ## I. Included:
 
-  1. Chapter 1:
+1. Chapter 1:
 
-      a. Intro
+	1. Intro
 
-  2. Chapter 2:
+1. Chapter 2:
 
-      a. [first-project](./first-project)
+      1. [first-project](./first-project)    
+      1. [variables](./variables)        
+      1. [io](./io)    
 
-      b. [variables](./variables)    
+1. Chapter 3:
 
-      c. [io](./io)
+      1. [operators](./operators)
 
-  3. Chapter 3:
+1. Chapter 4:
+    
+     1. [lists](./lists)    
+     1. [maps](./maps)    	
+     1. custom objects				
+	1. [map values](./map-values)
+	1. [map keys](./map-keys)			
+     1. [multimaps](./multimaps)
+     1. [sets](./sets)
 
-        a. [operators](./operators)
+1. Misc Code:
 
-  4. Misc Code:
-
-      a. [roots](./misc-code/roots)
-
-      b. [factorials](./misc-code/factorials)
-      
+      1. [roots](./misc-code/roots)				
+      1. [factorials](./misc-code/factorials)
+ 
       
  :bar_chart: with :heart: by :unicorn:
