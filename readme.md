@@ -1,7 +1,7 @@
 ## CPP Practice
 
 
-### Included:
+### Included
 
 1. Chapter 1:
 
