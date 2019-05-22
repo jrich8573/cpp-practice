@@ -1,7 +1,7 @@
-# CPP Practice
+## CPP Practice
 
 
-## I. Included:
+### Included:
 
 1. Chapter 1:
 
@@ -32,5 +32,11 @@
       1. [roots](./misc-code/roots)				
       1. [factorials](./misc-code/factorials)
  
+ ```
+mkdir working
+cd working
+git clone https://github.com/$USER/trees-cpp.git
+git checkout -b $BRANCH-NAME
+```
       
  :bar_chart: with :heart: by :unicorn:
