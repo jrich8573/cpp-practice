@@ -32,7 +32,8 @@
       1. [roots](./misc-code/roots)				
       1. [factorials](./misc-code/factorials)
  
- ```
+### Contributing
+```
 mkdir working
 cd working
 git clone https://github.com/$USER/trees-cpp.git
