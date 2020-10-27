@@ -14,8 +14,8 @@ endif
 ########################################################################
 # Macro definitions for "standard" C and C++ compilations
 #
-CPPFLAGS=-g -D$(DISTR)
-CFLAGS=-g
+CPPFLAGS=-g -D$(DISTR) -Wall
+CFLAGS=-g -Wall
 TARGET=$(MAINPROG)$(EXE)
 CPPS=main.cpp
 LINK=clang++ $(CPPFLAGS)

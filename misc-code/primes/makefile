@@ -1,6 +1,6 @@
 DIR=${PWD}
 ASST=$(notdir ${DIR})
-MAINPROG=main
+MAINPROG=checkPrime
 ifneq (,$(findstring MinGW,$(PATH)))
 DISTR=MinGW
 EXE=.exe
@@ -14,10 +14,10 @@ endif
 ########################################################################
 # Macro definitions for "standard" C and C++ compilations
 #
-CPPFLAGS=-g -D$(DISTR) -Wall -Weffc++
+CPPFLAGS=-g -D$(DISTR)
 CFLAGS=-g
 TARGET=$(MAINPROG)$(EXE)
-CPPS=main.cpp
+CPPS=checkPrime.cpp
 LINK=clang++ $(CPPFLAGS)
 #
 CC=clang

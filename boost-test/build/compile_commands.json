@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/jasonrich/code/cpp-practice/boost-test/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++14 -o CMakeFiles/HelloBoost.dir/main.cpp.o -c /Users/jasonrich/code/cpp-practice/boost-test/main.cpp",
+  "file": "/Users/jasonrich/code/cpp-practice/boost-test/main.cpp"
+}
+]
